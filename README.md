@@ -17,6 +17,13 @@ npm test
 
 ```js
 var thenWriteFile = require('then-write-file')
+
+thenWriteFile('./foobar.txt', 'foo bar')
+.then(function (res) {
+  console.log(res)
+  //=> true
+})
+.catch(console.error)
 ```
 
 
