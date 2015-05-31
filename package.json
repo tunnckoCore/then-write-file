@@ -10,9 +10,9 @@
     "test": "standard && node test.js"
   },
   "dependencies": {
-    "graceful-fs": "^3.0.7",
-    "mkdirp-then": "^1.0.1",
-    "mz": "^2.0.0"
+    "graceful-fs": "~3.0.7",
+    "mkdirp-then": "~1.0.1",
+    "mz": "~2.0.0"
   },
   "devDependencies": {
     "assertit": "^0.1.0",
