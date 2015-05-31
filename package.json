@@ -1,6 +1,6 @@
 {
   "name": "then-write-file",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Write file to disk, using promises and creating recursively intermediate directories if they don't exist.",
   "repository": "tunnckoCore/then-write-file",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
