@@ -27,6 +27,14 @@ thenWriteFile('./foobar.txt', 'foo bar')
 ```
 
 
+## Related
+- [then-parse-json](https://github.com/tunnckoCore/then-parse-json): Gracefully parse JSON using promises - promisified JSON.parse
+- [then-stringify-json](https://github.com/tunnckoCore/then-stringify-json): Gracefully stringify JSON using promises - promisified JSON.stringify
+- [try-read-json](https://github.com/tunnckoCore/try-read-json): Fast, meaningful and correct try/catch flow for reading JSON with JSON.parse - support optional callback
+- [then-read-json](https://github.com/tunnckoCore/then-read-json): Read JSON file using promises
+- [then-write-json](https://github.com/tunnckoCore/then-write-json): Write contents to JSON file using JSON.stringify and promises. Creating intermediate directories if they don't exist.
+
+
 ## Contributing
 
 Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/tunnckoCore/then-write-file/issues/new).  
