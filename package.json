@@ -18,5 +18,18 @@
     "assertit": "^0.1.0",
     "bluebird": "^2.9.27"
   },
-  "keywords": []
+  "keywords": [
+    "content",
+    "create",
+    "directory",
+    "file",
+    "filepath",
+    "json",
+    "promise",
+    "promises",
+    "stringify",
+    "write",
+    "write-file",
+    "write-json"
+  ]
 }
